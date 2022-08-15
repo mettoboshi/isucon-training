@@ -1,4 +1,5 @@
 .idea
+.DS_Store
 
 # isucon12-qualify
 isucon12-qualify/php/vendor
