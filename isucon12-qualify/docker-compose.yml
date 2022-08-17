@@ -1,6 +1,10 @@
 version: '3.0'
 
 services:
+  app:
+    image: mettoboshi/phpunit
+    volumes:
+      - ./webapp/php/:/var/www/html
   mysql:
     image: mysql:8.0
     platform: linux/arm64/v8
