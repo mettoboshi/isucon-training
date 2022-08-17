@@ -2,5 +2,5 @@
 .DS_Store
 
 # isucon12-qualify
-isucon12-qualify/php/vendor
-isucon12-qualify/php/.phpunit.result.cache
+isucon12-qualify/webapp/php/vendor
+isucon12-qualify/webapp/php/.phpunit.result.cache
